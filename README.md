@@ -10,4 +10,3 @@ The testing data is stored in the folder ``data/test`` and includes:
 * CMU ARCTIC BDL dataset (``bdl.tar.gz``)
 * CMU ARCTIC SLT dataset (``slt.tar.gz``)
 * CMU KED TIMIT dataset (``ked.tar.gz``)
-
