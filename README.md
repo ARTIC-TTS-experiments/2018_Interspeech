@@ -1,5 +1,5 @@
 # 2018_Interspeech
-Data used in experiments described in the paper *Glottal Closure Instant Detection from Speech Signal Using Voting Classifier and Recursive Feature Elimination*.
+Data used in experiments described in the paper [Glottal Closure Instant Detection from Speech Signal Using Voting Classifier and Recursive Feature Elimination](paper/matousek_is2018_submit.pdf).
 
 The data is stored utterance-by-utterance in CSV format and gzipped.
 
